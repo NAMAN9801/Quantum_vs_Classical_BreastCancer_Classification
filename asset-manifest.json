@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Quantum_vs_Classical_BreastCancer_Classification/static/css/main.e6c13ad2.css",
+    "main.js": "/Quantum_vs_Classical_BreastCancer_Classification/static/js/main.5ffe8554.js",
+    "static/js/453.829d45b5.chunk.js": "/Quantum_vs_Classical_BreastCancer_Classification/static/js/453.829d45b5.chunk.js",
+    "static/media/researcher1.jpeg": "/Quantum_vs_Classical_BreastCancer_Classification/static/media/researcher1.b407f76844d9f3e9bbd7.jpeg",
+    "static/media/researcher2.jpg": "/Quantum_vs_Classical_BreastCancer_Classification/static/media/researcher2.96d56a043f712c98d9a0.jpg",
+    "index.html": "/Quantum_vs_Classical_BreastCancer_Classification/index.html",
+    "main.e6c13ad2.css.map": "/Quantum_vs_Classical_BreastCancer_Classification/static/css/main.e6c13ad2.css.map",
+    "main.5ffe8554.js.map": "/Quantum_vs_Classical_BreastCancer_Classification/static/js/main.5ffe8554.js.map",
+    "453.829d45b5.chunk.js.map": "/Quantum_vs_Classical_BreastCancer_Classification/static/js/453.829d45b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5ffe8554.js"
+  ]
+}
