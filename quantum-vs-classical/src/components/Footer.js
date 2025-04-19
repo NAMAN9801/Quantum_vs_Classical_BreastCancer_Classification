@@ -23,7 +23,7 @@ const Footer = ({ handleDocumentationOpen }) => {
             Project Documentation
           </Link>
           {' | '}
-          <Link color="inherit" href="https://github.com/Naman9801/quantum-breast-cancer-classification" target="_blank">
+          <Link color="inherit" href="https://github.com/NAMAN9801/Quantum_vs_Classical_BreastCancer_Classification" target="_blank">
             GitHub Repository
           </Link>
         </Typography>

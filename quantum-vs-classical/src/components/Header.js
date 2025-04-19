@@ -288,7 +288,7 @@ const Header = ({ documentationOpen, handleDocumentationOpen, handleDocumentatio
                         <IconButton color="secondary" aria-label="email" href="mailto:sachinsingh23703@gmail.com">
                           <MailOutlineIcon />
                         </IconButton>
-                        <IconButton color="secondary" aria-label="github" href="https://github.com/prof-mchen" target="_blank">
+                        <IconButton color="secondary" aria-label="github" href="" target="_blank">
                           <GitHubIcon />
                         </IconButton>
                         <IconButton color="secondary" aria-label="linkedin" href="https://www.linkedin.com/in/sachin-singh-13s69/" target="_blank">
