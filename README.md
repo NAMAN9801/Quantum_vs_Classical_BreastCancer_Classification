@@ -93,8 +93,8 @@ pm start
 
 ## Authors
 
-- Naman Singh - Student Researcher at Guru Nanak Dev University
-- Sachin Dhingra - Student Researcher at Guru Nanak Dev University
+- Naman Dhingra - Student Researcher at Guru Nanak Dev University
+- Sachin Singh - Student Researcher at Guru Nanak Dev University
 
 ## License
 
